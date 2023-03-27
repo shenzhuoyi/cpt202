@@ -10,4 +10,11 @@ public class TeamApplication {
 		SpringApplication.run(TeamApplication.class, args);
 	}
 
+	public static void a1(){
+
+
+		int a= 1;
+
+	}
+
 }
