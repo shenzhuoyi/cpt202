@@ -17,4 +17,12 @@ public class TeamApplication {
 
 	}
 
+
+	public static void a2(){
+
+
+		int my = 2;
+
+	}
+
 }
